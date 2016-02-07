@@ -1,0 +1,24 @@
+{
+    "name": "samjoyce777/laravel-static-map",
+    "description": "Generates a static image url of a position on earth",
+    "type": "Laravel",
+    "require": {
+        "laravel/framework": "5.*",
+        "vlobchuk/google-static-map": "0.1.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "samjoyce777\\map\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Joyce",
+            "email": "samjoyce777@gmail.com"
+        }
+    ]
+}
