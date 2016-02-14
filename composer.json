@@ -1,6 +1,6 @@
 {
     "name": "samjoyce777/laravel-static-map",
-    "description": "Generates a static image url of a position on earth",
+    "description": "Generates a static image url of a position on earth, using geo coords",
     "type": "Laravel",
     "require": {
         "laravel/framework": "5.*",
